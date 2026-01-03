@@ -1,2 +1,22 @@
-# Little-Taco-Shop-HTML
-A simple multi-page site built using semantic HTML5, focusing on clean structure, accessibility, forms, and navigation. CSS will be added in a later update.
+# Little Taco Shop (HTML Only)
+
+This project is a simple multi-page website built using **semantic HTML**.
+
+## What I practiced
+- Semantic HTML structure
+- Accessible navigation
+- Forms with proper labels
+- Tables and lists
+- Multi-page linking
+
+## Pages
+- Home
+- Hours
+- Contact
+
+## Tech stack
+- HTML5
+
+## Notes
+This project focuses on HTML structure only.
+Styling will be added later when I learn CSS.
